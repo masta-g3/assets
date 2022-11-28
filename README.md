@@ -1,2 +1,2 @@
-# assets
-genral asset hosting services
+# LV Assets
+General asset hosting services.
